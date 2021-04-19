@@ -11,26 +11,26 @@
     <p class="section__subtitle">{{ section.subtitle }}</p>
     {% endif %}
     <div class="grid portfolio-feed portfolio-feed--{{ layout_style }}">
-      {% assign projects_sorted = '/portfolio' | get_pages | sort: 'date' | reverse %}
+      {% assign projects_sorted = '/works' | get_pages | sort: 'date' | reverse %}
       {% assign slice_length = section.projects_number | minus: 0 %}
       {% assign projects_recent = projects_sorted | slice: 0, slice_length %}
       {% for project in projects_recent %}
-        {% if forloop.last and section.view_all_label and section.view_all_url %}
-        <article class="cell project-card">
-          <a href="{{ section.view_all_url | relative_url }}" class="project-card__view-all">
-            {% assign thumb_image_is_not_empty = project.thumb_image | is_not_empty %}
-            {% if thumb_image_is_not_empty %}
-            <div class="project-card__image">
-              <img src="{{ project.thumb_image | relative_url }}" alt="{{ project.thumb_image_alt }}" />
-            </div>
-            {% endif %}
-            <span class="project-card__button">{{ section.view_all_label }}</span>
-          </a>
-        </article>
-        {% else %}
-          
-          {% include portfolio_item.html project_page=project %}
-        {% endif %}
+      {% if forloop.last and section.view_all_label and section.view_all_url %}
+      <article class="cell project-card">
+        <a href="{{ section.view_all_url | relative_url }}" class="project-card__view-all">
+          {% assign thumb_image_is_not_empty = project.thumb_image | is_not_empty %}
+          {% if thumb_image_is_not_empty %}
+          <div class="project-card__image">
+            <img src="{{ project.thumb_image | relative_url }}" alt="{{ project.thumb_image_alt }}" />
+          </div>
+          {% endif %}
+          <span class="project-card__button">{{ section.view_all_label }}</span>
+        </a>
+      </article>
+      {% else %}
+
+      {% include portfolio_item.html project_page=project %}
+      {% endif %}
       {% endfor %}
     </div>
   </div>

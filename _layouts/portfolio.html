@@ -4,7 +4,8 @@ layout: body
 
 {% assign layout_style = page.layout_style | default: 'mosaic' %}
 
-<header class="section section--header{% assign hide_title_is_not_empty = page.hide_title | is_not_empty %}{% if hide_title_is_not_empty %} screen-reader-text{% endif %}">
+<header
+  class="section section--header{% assign hide_title_is_not_empty = page.hide_title | is_not_empty %}{% if hide_title_is_not_empty %} screen-reader-text{% endif %}">
   <div class="container container--lg">
     <h1 class="section__title line-top">{{ page.title }}</h1>
     {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
@@ -17,7 +18,7 @@ layout: body
 <div class="section section--portfolio">
   <div class="container container--lg">
     <div class="grid portfolio-feed portfolio-feed--{{ layout_style }}">
-      {% assign projects_sorted = '/portfolio' | get_pages | sort: 'date' | reverse %}
+      {% assign projects_sorted = '/works' | get_pages | sort: 'date' | reverse %}
       {% for project in projects_sorted %}
       <article class="cell project-card">
         <a href="{{ project.url | relative_url }}" class="project-card__link">

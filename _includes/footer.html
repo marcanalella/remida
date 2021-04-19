@@ -2,21 +2,28 @@
   <div class="container container--lg">
     <div class="site-footer__inside">
       <div class="site-footer__info">
+        {% assign logo_is_not_empty = site.header.logo | is_not_empty %}
+        {% if logo_is_not_empty %}
+        <div class="navbar__logo">
+          <img src="{{ site.header.logo | relative_url }}" alt="{{ site.header.logo_alt }}" />
+        </div>
+        {% endif %}
         {% assign content_is_not_empty = site.footer.content | is_not_empty %}
         {% if content_is_not_empty %}
         <span class="site-footer__copyright">{{ site.footer.content }}</span>
         {% endif %}
         {% for action in site.footer.links %}
-          
-          {% include action_link.html action=action %}
+
+        {% include action_link.html action=action %}
         {% endfor %}
       </div>
       {% assign has_social_is_not_empty = site.footer.has_social | is_not_empty %}
       {% if has_social_is_not_empty %}
       <div class="site-footer__social">
+
         {% for action in site.footer.social_links %}
-          
-          {% include action.html action=action %}
+
+        {% include action.html action=action %}
         {% endfor %}
       </div>
       {% endif %}

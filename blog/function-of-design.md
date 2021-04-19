@@ -9,6 +9,34 @@ thumb_image: images/post-1-thumb.jpg
 thumb_image_alt: White concrete building wall
 image: images/post-1.jpg
 image_alt: White concrete building wall
+sections:
+  - type: form_section
+    section_id: contact-form
+    content: >-
+      Let’s build something great together.<br>
+
+      Complete our contact form or send us an email at
+      [email@example.com](mailto:email@example.com).
+
+
+      ***
+
+
+      ## Where we are
+
+
+      ### England
+
+      1234 Somewhere St.<br>
+
+      London,  London<br>
+
+      1-234-556-7890<br>
+
+      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+
+
+      ### Our social contact
 seo:
   title: The function of design is letting design function
   description: >-

@@ -1,49 +1,46 @@
 ---
-title: Design Is One
-subtitle: Print
-date: '2020-02-10'
-thumb_image: images/work-poster-1-thumb.jpg
+title: Bed with paint
+subtitle: Bed with wall
+date: '2020-07-10'
+thumb_image: images/project1/photo2.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
+  - type: text_section
+    content: >-
+      # Description:
+
+      
+      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
+      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
+      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
+      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
+      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
+      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
+      arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-poster-1.jpg
+    image: images/project1/photo1.jpg
     image_alt: Design Is One 1
     caption: This is the caption of the image
-    width: wide
-  - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    width: wid50%e 
   - type: image_section
-    image: images/work-poster-2.jpg
+    image: images/project1/photo2.jpg
     image_alt: Design Is One 2
     width: wide
-  - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-poster-3.jpg
+    image: images/project1/photo3.jpg
     image_alt: Design Is One 3
     width: wide
-  - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+  - type: cta_section
+    section_id: cta
+    title: Get in touch if you are interested on what you are seeing
+    image: images/cta-about.svg
+    image_alt: Illustration
+    bg_color: light
+    actions:
+      - label: Let's connect
+        url: /contact
+        style: button
 seo:
   title: Design Is One
   description: This is the sample project description

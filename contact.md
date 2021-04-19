@@ -14,29 +14,21 @@ sections:
       ***
 
 
-      ## Our Offices
+      ## Where we are
 
 
-      ### San Francisco
+      ### England
 
-      1234 Some St.<br>
+      1234 Somewhere St.<br>
 
-      San Francisco, CA 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-
-      ### New York
-
-      1234 Some St.<br>
-
-      New York, NY 12345<br>
+      London,  London<br>
 
       1-234-556-7890<br>
 
       [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+
+
+      ### Our social contact
     form_id: contactForm
     form_action: /thank-you
     form_fields:

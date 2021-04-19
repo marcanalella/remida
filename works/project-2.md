@@ -44,6 +44,16 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
+  - type: cta_section
+    section_id: cta
+    title: Let’s Work Together
+    content: >-
+      Say hello at [email@example.com](mailto:email@example.com) or tell us more
+      about your project by getting started below.
+    actions:
+      - label: Let's connect
+        url: /contact
+        style: button
 seo:
   title: Aimi
   description: This is the sample project description
