@@ -1,43 +1,25 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-</br>
-    <h2 class="footer-heading">If necessary, contact</h2>
-
-    <div class="footer">
-
-        <h3 class="contact-list">
-<li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% endif %}
-
-</li>
-<li>
-            {% if site.phone %}
-            Call {{ site.phone | escape }}
-            {% endif %}
-            </li>
-<li>
-            {% if site.email %}
-            email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-
-          </h3>
-</br>
-        <div class="social-media-list">
-          <a href="https://www.mariocanalella.pw" target="_blank">Mario Canalella</a>
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </div>
-
-
+<footer id="colophon" class="site-footer">
+  <div class="container container--lg">
+    <div class="site-footer__inside">
+      <div class="site-footer__info">
+        {% assign content_is_not_empty = site.footer.content | is_not_empty %}
+        {% if content_is_not_empty %}
+        <span class="site-footer__copyright">{{ site.footer.content }}</span>
+        {% endif %}
+        {% for action in site.footer.links %}
+          
+          {% include action_link.html action=action %}
+        {% endfor %}
+      </div>
+      {% assign has_social_is_not_empty = site.footer.has_social | is_not_empty %}
+      {% if has_social_is_not_empty %}
+      <div class="site-footer__social">
+        {% for action in site.footer.social_links %}
+          
+          {% include action.html action=action %}
+        {% endfor %}
+      </div>
+      {% endif %}
     </div>
-
   </div>
-
 </footer>
