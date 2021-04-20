@@ -23,7 +23,7 @@ layout: body
   </div>
 </article>
 
-{% assign projects_sorted = '/works' | get_pages | sort: 'date' | reverse %}
+{% assign projects_sorted = '/gallery' | get_pages | sort: 'date' | reverse %}
 {% for project_item in projects_sorted %}
 {% if project_item.url == page.url %}
 {% assign curr_index = forloop.index0 %}

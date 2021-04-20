@@ -22,7 +22,7 @@ sections:
     image: images/project1/photo1.jpg
     image_alt: Design Is One 1
     caption: This is the caption of the image
-    width: wid50%e 
+    width: wide
   - type: image_section
     image: images/project1/photo2.jpg
     image_alt: Design Is One 2

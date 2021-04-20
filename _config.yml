@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: "/posts/:title/"
 color_scheme: light
-accent_color: red
+accent_color: yellow
 base_font: fraunces
 header:
   title: remida
@@ -22,8 +22,8 @@ header:
     - label: Services
       url: /services/
       style: link
-    - label: Our Work
-      url: /works/
+    - label: Gallery
+      url: /gallery/
       style: link
     - label: News
       url: /blog/
@@ -33,9 +33,9 @@ header:
       style: button
 footer:
   content: >-
-    &copy; 2021 Remida Ltd. All rights reserved. Powered by <a
+    &copy; 2021 Remida Property Solution. All rights reserved. Powered by <a
     href="https://mariocanalella.pw" target="_blank"
-    rel="noopener">canalella.com</a>.
+    rel="noopener">canalella.com</a>
   has_social: true
   social_links:
     - label: Twitter

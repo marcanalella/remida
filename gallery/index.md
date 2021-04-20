@@ -1,6 +1,6 @@
 ---
-title: Our Works
-subtitle: This is an optional subtitle for the portfolio page
+title: Gallery
+subtitle: Take a look at our gallery
 layout_style: mosaic
 seo:
   title: Portfolio
@@ -16,7 +16,7 @@ seo:
       value: This is the portfolio page
       keyName: property
     - name: 'og:image'
-      value: images/work-book-1.jpg
+      value: images/gallery-book-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: This is the portfolio page
     - name: 'twitter:image'
-      value: images/work-book-1.jpg
+      value: images/gallery-book-1.jpg
       relativeUrl: true
 layout: portfolio
 ---
