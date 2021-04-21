@@ -2,6 +2,7 @@
 title: Painting
 subtitle: Take a look at our gallery
 layout_style: mosaic
+projects_sorted: '/galleryHome'
 seo:
   title: Portfolio
   description: This is the portfolio page
@@ -28,5 +29,4 @@ seo:
     - name: 'twitter:image'
       value: images/gallery-book-1.jpg
       relativeUrl: true
-layout: portfolio_painting
----
+layout: portfolio
