@@ -1,8 +1,8 @@
 ---
 title: Bed with paint
-subtitle: Bed with wall
+subtitle: Bed with paint
 date: '2020-07-10'
-thumb_image: images/project1/photo2.jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/internalDesign/project1/photo2.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
   - type: text_section
@@ -19,16 +19,16 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/project1/photo1.jpg
+    image: images/internalDesign/project1/photo1.jpg
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
   - type: image_section
-    image: images/project1/photo2.jpg
+    image: images/internalDesign/project1/photo2.jpg
     image_alt: Design Is One 2
     width: wide
   - type: image_section
-    image: images/project1/photo3.jpg
+    image: images/internalDesign/project1/photo3.jpg
     image_alt: Design Is One 3
     width: wide
   - type: cta_section

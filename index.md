@@ -64,7 +64,8 @@ sections:
     subtitle: Explore our gallery
     projects_number: 4
     view_all_label: View All
-    view_all_url: works
+    view_all_url: gallery
+    project_sorted: '/galleryHome'
   # - type: grid_section
   #  section_id: clients
   #  title: Clients

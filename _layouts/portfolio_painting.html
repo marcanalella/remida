@@ -18,7 +18,7 @@ layout: body
 <div class="section section--portfolio">
   <div class="container container--lg">
     <div class="grid portfolio-feed portfolio-feed--{{ layout_style }}">
-      {% assign projects_sorted = '/galleryHome' | get_pages | sort: 'date' | reverse %}
+      {% assign projects_sorted = '/painting' | get_pages | sort: 'date' | reverse %}
       {% for project in projects_sorted %}
       <article class="cell project-card">
         <a href="{{ project.url | relative_url }}" class="project-card__link">
