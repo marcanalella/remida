@@ -16,16 +16,6 @@ sections:
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
-  - type: cta_section
-    section_id: cta
-    title: Get in touch if you are interested on what you are seeing
-    image: images/cta-about.svg
-    image_alt: Illustration
-    bg_color: light
-    actions:
-      - label: Let's connect
-        url: /contact
-        style: button
 seo:
   title: Design Is One
   description: This is the sample project description
