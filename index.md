@@ -10,15 +10,15 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Redesign and improve your property with us
+      Reinvent and improve your property with us
     content: >-
-      We offer uniquely personalised interior & exterior design services for each of our clients, creating a functional and attractive environment that is beneficial to your quality of life taking care all of your property needs that are distinguished by their warmth, originality and careful attention to detail. Founded on the simple belief that good design brings quality to life, the company’s customers include private homes, retail spaces and work environments.
+      We offer uniquely personalised for your interior & exterior properties for each of our clients, creating a functional and attractive environment that is beneficial to your quality of life, taking care all of your property needs that are distinguished by their warmth, originality and careful attention to detail. Founded on the simple belief that good design brings quality to life, the company’s customers include private homes, retail spaces and work environments.
 
 
       We have a network of skilled suppliers including fine artisan artists, such as muralists and custom furniture makers, to create timeless designs, customised art works and furnishings for our clients.
       
 
-      We take time to understand the needs of our clients to ensure that we deliver the best design with the best quality. Our reputation has been built on our exceptional level of service
+      We take time to understand the needs of our clients to ensure that we deliver the best, following designer's instruction with the best quality according to customer's instructions. Our reputation has been built on our exceptional level of service
       
       
       [Let's connect](/contact/).
