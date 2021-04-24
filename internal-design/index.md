@@ -1,10 +1,10 @@
 ---
-title: Internal Design
-subtitle: Take a look at our Internal Design
+title: Bespoke Internal Design
+subtitle: Take a look at our Bespoke Internal Design
 layout_style: mosaic
 projects_sorted: '/internal-design'
 seo:
-  title: Internal Design
+  title: Bespoke Internal Design
   description: This is the portfolio page
   extra:
     - name: 'og:type'
