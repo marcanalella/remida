@@ -2,7 +2,7 @@
 title: Bespoke Bedroom Design
 #subtitle: Bed with paint
 date: '2020-07-10'
-thumb_image: images/internalDesign/project1/photo2.jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/internal-design/project1/photo2.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Bespoke Bedroom Design preview
 sections:
   - type: text_section
@@ -16,16 +16,16 @@ sections:
       in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
       ornare massa amet.
   - type: image_section
-    image: images/internalDesign/project1/photo1.jpg
+    image: images/internal-design/project1/photo1.jpg
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
   - type: image_section
-    image: images/internalDesign/project1/photo2.jpg
+    image: images/internal-design/project1/photo2.jpg
     image_alt: Design Is One 2
     width: wide
   - type: image_section
-    image: images/internalDesign/project1/photo3.jpg
+    image: images/internal-design/project1/photo3.jpg
     image_alt: Design Is One 3
     width: wide
 seo:

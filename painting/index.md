@@ -1,17 +1,17 @@
 ---
-title: Painting
+title: Art Commissions
 subtitle: Take a look at our gallery
 layout_style: mosaic
 projects_sorted: '/painting'
 seo:
-  title: Portfolio
-  description: This is the portfolio page
+  title: Art Commissions
+  description: This is the Art Commissions page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Art Commissions
       keyName: property
     - name: 'og:description'
       value: This is the portfolio page

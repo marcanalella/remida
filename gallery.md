@@ -5,15 +5,15 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Internal Design
+    title: Bespoke Internal Design
     projects_number: 6
     view_all_label: View All
-    view_all_url: internalDesign
-    project_sorted: '/internalDesign'
+    view_all_url: internal-design
+    project_sorted: '/internal-design'
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Paiting
+    title: Art Commissions
     projects_number: 6
     view_all_label: View All
     view_all_url: painting

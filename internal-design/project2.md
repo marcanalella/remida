@@ -2,7 +2,7 @@
 title: Wall
 subtitle: Wall and TV
 date: '2020-07-10'
-thumb_image: images/internalDesign/project2/photo1.jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/internal-design/project2/photo1.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
   - type: text_section
@@ -13,7 +13,7 @@ sections:
       Example
   - type: image_section
     images: 
-    - path: images/internalDesign/project2/photo1.jpg
+    - path: images/internal-design/project2/photo1.jpg
       image_alt: Design Is One 1
       caption: This is the caption of the image
 seo:

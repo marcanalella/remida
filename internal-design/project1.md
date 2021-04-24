@@ -2,7 +2,7 @@
 title: Bespoke Bedroom Design
 #subtitle: Bed with paint
 date: '2020-07-10'
-thumb_image: images/internalDesign/project1/photo2.jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/internal-design/project1/photo2.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
   - type: text_section
@@ -16,13 +16,13 @@ sections:
       in lacinia.
   - type: image_section
     images:
-      - path: images/internalDesign/project1/photo1.jpg
+      - path: images/internal-design/project1/photo1.jpg
         image_alt: Design Is One 1
         caption: This is the caption of the image
-      - path: images/internalDesign/project1/photo2.jpg
+      - path: images/internal-design/project1/photo2.jpg
         image_alt: Design Is One 2
         caption: This is the caption of the image
-      - path: images/internalDesign/project1/photo3.jpg
+      - path: images/internal-design/project1/photo3.jpg
         image_alt: Design Is One 3
         caption: This is the caption of the image
 seo:
