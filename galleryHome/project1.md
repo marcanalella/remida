@@ -1,9 +1,9 @@
 ---
-title: Bed with paint
-subtitle: Bed with paint
+title: Bespoke Bedroom Design
+#subtitle: Bed with paint
 date: '2020-07-10'
 thumb_image: images/internalDesign/project1/photo2.jpg #images/work-poster-1-thumb.jpg
-thumb_image_alt: Design Is One preview
+thumb_image_alt: Bespoke Bedroom Design preview
 sections:
   - type: text_section
     content: >-

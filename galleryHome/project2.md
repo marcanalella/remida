@@ -1,6 +1,6 @@
 ---
-title: Painting 1
-subtitle: Painting 1
+title: Wall Art Commission
+#subtitle: Painting 1
 date: '2021-02-06'
 thumb_image: images/painting/project1/photo2.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Subtle preview
