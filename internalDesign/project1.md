@@ -13,24 +13,18 @@ sections:
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
       accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
       Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+      in lacinia.
   - type: image_section
-    image: images/internalDesign/project1/photo1.jpg
-    image_alt: Design Is One 1
-    caption: This is the caption of the image
-    width: wide
-  - type: image_section
-    image: images/internalDesign/project1/photo2.jpg
-    image_alt: Design Is One 2
-    width: wide
-  - type: image_section
-    image: images/internalDesign/project1/photo3.jpg
-    image_alt: Design Is One 3
-    width: wide
+    images:
+      - path: images/internalDesign/project1/photo1.jpg
+        image_alt: Design Is One 1
+        caption: This is the caption of the image
+      - path: images/internalDesign/project1/photo2.jpg
+        image_alt: Design Is One 2
+        caption: This is the caption of the image
+      - path: images/internalDesign/project1/photo3.jpg
+        image_alt: Design Is One 3
+        caption: This is the caption of the image
 seo:
   title: Design Is One
   description: This is the sample project description

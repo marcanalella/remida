@@ -12,10 +12,10 @@ sections:
       
       Example
   - type: image_section
-    image: images/internalDesign/project2/photo1.jpg
-    image_alt: Design Is One 1
-    caption: This is the caption of the image
-    width: wide
+    images: 
+    - path: images/internalDesign/project2/photo1.jpg
+      image_alt: Design Is One 1
+      caption: This is the caption of the image
 seo:
   title: Design Is One
   description: This is the sample project description
