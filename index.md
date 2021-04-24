@@ -65,7 +65,7 @@ sections:
     projects_number: 4
     view_all_label: View All
     view_all_url: gallery
-    project_sorted: '/galleryHome'
+    project_sorted: '/display'
   # - type: grid_section
   #  section_id: clients
   #  title: Clients

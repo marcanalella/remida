@@ -2,7 +2,7 @@
 title: Gallery
 subtitle: Take a look at our gallery
 layout_style: mosaic
-projects_sorted: '/galleryHome'
+projects_sorted: '/display'
 seo:
   title: Portfolio
   description: This is the portfolio page
