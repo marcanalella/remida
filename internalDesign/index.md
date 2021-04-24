@@ -2,6 +2,7 @@
 title: Internal Design
 subtitle: Take a look at our Internal Design
 layout_style: mosaic
+projects_sorted: '/internalDesign'
 seo:
   title: Internal Design
   description: This is the portfolio page
@@ -28,5 +29,5 @@ seo:
     - name: 'twitter:image'
       value: images/gallery-book-1.jpg
       relativeUrl: true
-layout: portfolio_internal
+layout: portfolio
 ---
