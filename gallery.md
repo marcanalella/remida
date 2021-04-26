@@ -1,6 +1,6 @@
 ---
-title: Gallery
-hide_title: true
+title: Get a look on what we can do for you
+hide_title: false
 sections:
   - type: portfolio_section
     section_id: latest-projects
