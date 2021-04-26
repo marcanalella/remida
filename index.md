@@ -48,7 +48,7 @@ sections:
       - title: Professional Team
         image: images/icons8-group-task-80.png
         content: |-
-            We are a small team coming from different backgrounds and bringing on the table different high-level skills
+            We are a team coming from different backgrounds and bringing on the table different high-level skills
       - title: Listen to the Clients
         image: images/icons8-listen-80.png
         content: |-
