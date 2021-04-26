@@ -25,6 +25,9 @@ sections:
       - path: images/internal-design/project1/photo3.jpg
         image_alt: Design Is One 3
         caption: This is the caption of the image
+      - path: images/internal-design/project1/photo4.jpg
+        image_alt: Design Is One 3
+        caption: This is the caption of the image
 seo:
   title: Design Is One
   description: This is the sample project description

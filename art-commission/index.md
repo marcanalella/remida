@@ -1,8 +1,8 @@
 ---
-title: Painting
+title: Art Commissions
 subtitle: Take a look at our gallery
 layout_style: mosaic
-projects_sorted: '/painting'
+projects_sorted: '/art-commission'
 seo:
   title: Art Commissions
   description: This is the Art Commissions page
