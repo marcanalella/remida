@@ -16,6 +16,14 @@ sections:
     title: Art Commissions
     projects_number: 6
     view_all_label: View All
+    view_all_url: art-commission
+    project_sorted: '/art-commission'
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title: Painting
+    projects_number: 6
+    view_all_label: View All
     view_all_url: painting
     project_sorted: '/painting'
 layout: advanced

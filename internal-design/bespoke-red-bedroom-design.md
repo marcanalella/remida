@@ -1,5 +1,6 @@
 ---
-title: Wall
+title: Bespoke Red Bedroom Design
+
 subtitle: Wall and TV
 date: '2020-07-10'
 thumb_image: images/internal-design/project2/photo1.jpg #images/work-poster-1-thumb.jpg
