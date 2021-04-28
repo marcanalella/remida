@@ -1,5 +1,5 @@
 ---
-title: Decorative Paint
+title: Decorative Wall Paint
 # subtitle: Painting 1
 date: '2021-02-06'
 thumb_image: images/painting/decorative-paint/photo (7).jpg #images/work-poster-1-thumb.jpg
