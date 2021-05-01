@@ -1,30 +1,85 @@
 ---
 title: Services
-hide_title: false
+hide_title:
 sections:
   - type: content_section
-    title: Painting
     content: >-
-        Description 1
-    #image: images/about.jpg
-    #image_alt: Our team in the meeting room
-  - type: content_section
-    title: Decorating
+        Remida is all about providing you with just the help you need to create your individual home and garden more easily. With our help you stay completely in control of the look, timings and budget.
+
+
+        We provide a professional service for our clients, executed with great attention to detail and creative flair.
+
+
+        We have a reliable team that can be called upon for larger schemes or tight deadlines.
+
+
+        We work close with luxury interior designers around London which are relaying to our professional service in order to recreate in real their projects.
+  - type: grid_section
+    section_id: services
+    title: What we do
+    col_number: three
+    grid_items:
+      - title: Flooring
+        image: images/flooring.jpg
+        content: |-
+            Description
+        actions:
+        - label: Explore
+          url: /contact/
+          style: button
+      - title: Drywall works
+        image: images/dry_wall.jpg
+        content: |-
+            Description
+        actions:
+        - label: Explore
+          url: /drywall-works
+          style: button
+      - title: Painting
+        image: images/paint.jpg
+        content: |-
+            Description
+        actions:
+        - label: Explore
+          url: /painting
+          style: button
+      - title: Art Commissions
+        image: images/art.jpeg
+        content: |-
+            Description
+        actions:
+        - label: Explore
+          url: /art-commission
+          style: button
+      - title: Bespoke Internal
+        image: images/internal-design/project1/photo2.jpg
+        content: |-
+            Description
+        actions:
+        - label: Explore
+          url: /internal-design/
+          style: button
+      #- title: Bespoke Internal Design
+      #  image: images/internal-design/project1/photo2.jpg
+      #  content: |-
+      #      Description
+      #  actions:
+      #  - label: Explore
+      #    url: /contact
+      #    style: button
+  - type: cta_section
+    section_id: cta
+    title: Let’s Connect
     content: >-
-        Description 1
-    image: images/about.jpg
-    image_alt: Our team in the meeting room
-  #- type: cta_section
-  #  section_id: cta
-  #  title: Become a Team Player
-  #  content: >-
-  #    We are always looking for great people to join our team. If you are
-  #    interested in working for Agency, please send an email to
-  #    [email@example.com](mailto:email@example.com) with your CV and which
-  #    position you are interested in.
-  #  image: images/cta-about.svg
-  #  image_alt: Illustration
-  #  bg_color: light
+      Contact us at [email@example.com](mailto:email@example.com) or at [+44 00000000000]() and tell us more
+      about your project by getting started below.
+    actions:
+      - label: Contact us
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
 seo:
   title: About Us
   description: This is the about us page

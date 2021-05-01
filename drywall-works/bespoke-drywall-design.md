@@ -1,8 +1,8 @@
 ---
-title: Bespoke Living Room Design
+title: Bespoke Drywall Design
 #subtitle: Bed with paint
 date: '2020-07-10'
-thumb_image: images/internal-design/bespoke-living-room-design/photo (6).jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/bespoke-drywall-design/photo (5).jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
   - type: text_section
@@ -16,29 +16,35 @@ sections:
       in lacinia. First and after work
   - type: image_section
     images:
-      - path: images/internal-design/bespoke-living-room-design/photo (1).jpg
+      - path: images/bespoke-drywall-design/photo (1).jpg
         image_alt: Design Is One 1
         caption: This is the caption of the image
-      - path: images/internal-design/bespoke-living-room-design/photo (2).jpg
+      - path: images/bespoke-drywall-design/photo (2).jpg
         image_alt: Design Is One 2
         caption: This is the caption of the image
-      - path: images/internal-design/bespoke-living-room-design/photo (3).jpg
+      - path: images/bespoke-drywall-design/photo (3).jpg
         image_alt: Design Is One 3
         caption: This is the caption of the image
-      - path: images/internal-design/bespoke-living-room-design/photo (4).jpg
+      - path: images/bespoke-drywall-design/photo (4).jpg
         image_alt: Design Is One 3
         caption: This is the caption of the image
-      - path: images/internal-design/bespoke-living-room-design/photo (5).jpg
+      - path: images/bespoke-drywall-design/photo (5).jpg
         image_alt: Design Is One 1
         caption: This is the caption of the image
-      - path: images/internal-design/bespoke-living-room-design/photo (6).jpg
+      - path: images/bespoke-drywall-design/photo (6).jpg
         image_alt: Design Is One 2
         caption: This is the caption of the image
-      - path: images/internal-design/bespoke-living-room-design/photo (7).jpg
+      - path: images/bespoke-drywall-design/photo (7).jpg
         image_alt: Design Is One 3
         caption: This is the caption of the image
-      - path: images/internal-design/bespoke-living-room-design/photo (8).jpg
+      - path: images/bespoke-drywall-design/photo (8).jpg
         image_alt: Design Is One 3
+        caption: This is the caption of the image
+      - path: images/bespoke-drywall-design/photo (9).jpg
+        image_alt: Design Is One 1
+        caption: This is the caption of the image
+      - path: images/bespoke-drywall-design/photo (10).jpg
+        image_alt: Design Is One 2
         caption: This is the caption of the image
 seo:
   title: Design Is One

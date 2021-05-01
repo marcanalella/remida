@@ -28,14 +28,14 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Property Maintenance Service
+      - title: Property Service
         image: images/icons8-home-page-100.png
         content: |-
             We offers services like painting, decorating, drywall installation, flooring and furniture assembly & fitting 
-      - title: Design Service
-        image: images/icons8-design-80.png
-        content: |-
-            A truly bespoke service for residential projects from initial concept, hands-on installation, through to completion. 
+      #- title: Design Service
+      #  image: images/icons8-design-80.png
+      #  content: |-
+      #      A truly bespoke service for residential projects from initial concept, hands-on installation, through to completion. 
       - title: Restructuring Service
         image: images/icons8-hammer-80.png
         content: |-
@@ -52,7 +52,7 @@ sections:
       - title: Listen to the Clients
         image: images/icons8-listen-80.png
         content: |-
-          One of the most important things for us is to listen carefully to the requirements of our clients. We design for you and not for us!
+          One of the most important things for us is to listen carefully to the requirements of our clients.
       - title: Creative Solutions
         image: images/icons8-light-80.png
         content: |-
@@ -84,12 +84,12 @@ sections:
   #      image_alt: Logo 5
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together
+    title: Let’s Connect
     content: >-
       Contact us at [email@example.com](mailto:email@example.com) or at [+44 00000000000]() and tell us more
       about your project by getting started below.
     actions:
-      - label: Let's connect
+      - label: Contact us
         url: /contact
         style: button
     image: images/cta.svg
