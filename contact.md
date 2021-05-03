@@ -41,9 +41,10 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
-          - Design
-          - Digital
+          - Drywall feature works
+          - Painting and decorating
+          - Bespoke Internal Design
+          - Other
       - input_type: textarea
         name: message
         label: Message
