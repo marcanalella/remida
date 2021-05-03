@@ -29,7 +29,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Painting
+    title: Painting and decorating
     projects_number: 4
     view_all_label: View All
     view_all_url: painting

@@ -5,15 +5,15 @@ date: '2020-07-10'
 thumb_image: images/bespoke-drywall-design/photo (5).jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
-  - type: text_section
-    content: >-
+  #- type: text_section
+  #  content: >-
       # Description:
 
       
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. First and after work
+  #    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
+  #   accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
+  #    Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+  #    in lacinia.
   - type: image_section
     images:
       - path: images/bespoke-drywall-design/photo (1).jpg

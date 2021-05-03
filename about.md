@@ -4,15 +4,13 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-        At Remida we take on all aspects of residential painting, decorating and design walls and ceiling from plasterboard to suit your plans for both interior and exterior jobs to improve and give a character to your property.
+        At Remida we take on all aspects of residential and commercial painting, decorating and feature design walls and ceiling from plasterboard to suit your plans for both interior and exterior jobs to improve and give a character to your property.
 
 
         We have experience and expertise in renovations, alterations and refurbishment. We love working with design plans, transforming the project into your dream house. 
         
-
-        We offer a bespoke service whether it is a part of your house to be revamped or an entire building.
-    image: images/about.jpg
-    image_alt: Our team in the meeting room
+  #  image: images/about.jpg
+  #  image_alt: Our team in the meeting room
   #- type: grid_section
   #  section_id: team
   #  title: The Team

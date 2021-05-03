@@ -1,5 +1,5 @@
 ---
-title: Painting
+title: Painting and decorating
 subtitle: Take a look at our gallery
 layout_style: mosaic
 projects_sorted: '/painting'

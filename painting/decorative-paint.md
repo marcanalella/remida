@@ -5,12 +5,15 @@ date: '2021-02-06'
 thumb_image: images/painting/decorative-paint/photo (7).jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections: 
-  - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+  #- type: text_section
+  #  content: >-
+      # Description:
+
+      
+  #    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
+  #   accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
+  #    Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+  #    in lacinia.
   - type: image_section
     images: 
       - path: images/painting/decorative-paint/photo (1).jpg

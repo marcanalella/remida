@@ -5,13 +5,15 @@ date: '2021-02-06'
 thumb_image: images/painting/project1/photo2.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections:
-  - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet.
+  #- type: text_section
+  #  content: >-
+      # Description:
+
+      
+  #    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
+  #   accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
+  #    Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+  #    in lacinia.
   - type: image_section
     images:
     - path: images/painting/project1/photo1.jpg

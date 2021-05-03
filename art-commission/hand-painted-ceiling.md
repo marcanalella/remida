@@ -1,8 +1,8 @@
 ---
-title: Paint effects on furnitures
+title: Hand Painted Ceiling
 # subtitle: Painting 1
 date: '2021-02-06'
-thumb_image: images/painting/doors-art-commission/photo2.jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/hand-painted-ceiling/photo (1).jpeg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections: 
   #- type: text_section
@@ -16,15 +16,15 @@ sections:
   #    in lacinia.
   - type: image_section
     images: 
-      - path: images/painting/doors-art-commission/photo1.jpg
+      - path: images/hand-painted-ceiling/photo (1).jpeg
         image_alt: Subtle 1
         caption: This is the caption of the image
-      - path: images/painting/doors-art-commission/photo2.jpg
+      - path: images/hand-painted-ceiling/photo (2).jpeg
         image_alt: Subtle 2
-        width: wide
-      - path: images/painting/doors-art-commission/photo3.jpg
+        caption: This is the caption of the image
+      - path: images/hand-painted-ceiling/photo (3).jpeg
         image_alt: Subtle 3
-        width: wide
+        caption: This is the caption of the image
 seo:
   title: Subtle
   description: This is the sample project description

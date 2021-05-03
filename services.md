@@ -19,6 +19,22 @@ sections:
     title: What we do
     col_number: three
     grid_items:
+      - title: Drywall feature works
+        image: images/dry_wall.jpg
+        content: |-
+              sss
+        actions:
+        - label: See more
+          url: /drywall-works
+          style: button
+      - title: Painting and decorating
+        image: images/paint.jpg
+        content: |-
+            Experienced professional decorative artist proviging interior decorative finishes and mural projects for interiors designers and private clients  
+        actions:
+        - label: Explore
+          url: /painting
+          style: button
       - title: Flooring
         image: images/flooring.jpg
         content: |-
@@ -27,31 +43,15 @@ sections:
         - label: Explore
           url: /contact/
           style: button
-      - title: Drywall works
-        image: images/dry_wall.jpg
-        content: |-
-            Description
-        actions:
-        - label: Explore
-          url: /drywall-works
-          style: button
-      - title: Painting
-        image: images/paint.jpg
-        content: |-
-            Description
-        actions:
-        - label: Explore
-          url: /painting
-          style: button
       - title: Art Commissions
         image: images/art.jpeg
         content: |-
-            Description
+            Hand painted bespoke murals, for designers and private clients 
         actions:
         - label: Explore
           url: /art-commission
           style: button
-      - title: Bespoke Internal
+      - title: Bespoke Internal Design
         image: images/internal-design/project1/photo2.jpg
         content: |-
             Description

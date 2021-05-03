@@ -6,12 +6,15 @@ date: '2020-07-01'
 thumb_image: images/internal-design/project2/photo1.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
-  - type: text_section
-    content: >-
+  #- type: text_section
+  #  content: >-
       # Description:
 
       
-      Example
+  #    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
+  #   accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
+  #    Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+  #    in lacinia.
   - type: image_section
     images: 
     - path: images/internal-design/project2/photo1.jpg
