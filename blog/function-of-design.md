@@ -16,7 +16,7 @@ sections:
       Let’s build something great together.<br>
 
       Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      [paoleno21@gmail.com](mailto:paoleno21@gmail.com).
 
 
       ***

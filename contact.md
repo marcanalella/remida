@@ -8,7 +8,7 @@ sections:
       Let’s build something great together.<br>
 
       Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      [paoleno21@gmail.com](mailto:paoleno21@gmail.com).
 
 
       ***
@@ -16,20 +16,14 @@ sections:
 
       ## Where we are
 
+      Weybridge, Surrey, Kt15 2ss<br>
 
-      ### England
-
-      1234 Somewhere St.<br>
-
-      London,  London<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [+44 7402052652]()<br>
 
 
       ### Our social contact
     form_id: contactForm
+#[Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337) to put 
     form_action: /thank-you
     form_fields:
       - input_type: text

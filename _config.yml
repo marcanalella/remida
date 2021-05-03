@@ -25,9 +25,9 @@ header:
     - label: Gallery
       url: /gallery/
       style: link
-    - label: News
-      url: /blog/
-      style: link
+    #- label: News
+    #  url: /blog/
+    #  style: link
     - label: Contact
       url: /contact/
       style: button

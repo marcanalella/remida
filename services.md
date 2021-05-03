@@ -4,7 +4,7 @@ hide_title:
 sections:
   - type: content_section
     content: >-
-        Remida is all about providing you with just the help you need to create your individual home and garden more easily. With our help you stay completely in control of the look, timings and budget.
+        Remida is all about providing you with just the help you need to create your individual home more easily. With our help you stay completely in control of the look, timings and budget.
 
 
         We provide a professional service for our clients, executed with great attention to detail and creative flair.
@@ -71,7 +71,7 @@ sections:
     section_id: cta
     title: Let’s Connect
     content: >-
-      Contact us at [email@example.com](mailto:email@example.com) or at [+44 00000000000]() and tell us more
+      Contact us at [paoleno21@gmail.com](mailto:paoleno21@gmail.com) or at [+44 7402052652]() and tell us more
       about your project by getting started below.
     actions:
       - label: Contact us

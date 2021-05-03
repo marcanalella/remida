@@ -86,7 +86,7 @@ sections:
     section_id: cta
     title: Let’s Connect
     content: >-
-      Contact us at [email@example.com](mailto:email@example.com) or at [+44 00000000000]() and tell us more
+      Contact us at [paoleno21@gmail.com](mailto:paoleno21@gmail.com) or at [+44 7402052652]() and tell us more
       about your project by getting started below.
     actions:
       - label: Contact us
