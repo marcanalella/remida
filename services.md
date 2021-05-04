@@ -22,7 +22,7 @@ sections:
       - title: Drywall feature works
         image: images/drywall.jpeg
         content: |-
-              sss
+              Professional drywall repair and maintenance is important to keep your home looking great. Our ability to drywall feature works also it's able to improve and reinvent our house.
         actions:
         - label: See more
           url: /drywall-works
@@ -30,7 +30,7 @@ sections:
       - title: Art Commissions
         image: images/art.jpeg
         content: |-
-            Hand painted bespoke murals, for designers and private clients 
+            Hand painted bespoke murals, for designers and private clients.
         actions:
         - label: Explore
           url: /art-commission
@@ -38,7 +38,7 @@ sections:
       - title: Bespoke Internal Design
         image: images/internal-design/project1/photo2.jpg
         content: |-
-            Description
+            We work closely with designers in order to offer a solution to any design need that are tailored to you.
         actions:
         - label: Explore
           url: /internal-design/
@@ -46,7 +46,7 @@ sections:
       - title: Painting and decorating
         image: images/paint.jpg
         content: |-
-            Experienced professional decorative artist proviging interior decorative finishes and mural projects for interiors designers and private clients  
+            Experienced professional decorative artist proviging interior decorative finishes and mural projects for interiors designers and private clients.  
         actions:
         - label: Explore
           url: /painting
@@ -54,7 +54,7 @@ sections:
       - title: Flooring
         image: images/flooring.jpg
         content: |-
-            Description
+            Our solution for installation and repair of most types of flooring, including hardwood, laminate, vinyl, linoleum, ceramic tile and more.
         actions:
         - label: Explore
           url: /contact/
