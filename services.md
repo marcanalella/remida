@@ -22,7 +22,7 @@ sections:
       - title: Drywall feature works
         image: images/drywall.jpeg
         content: |-
-              Professional drywall repair and maintenance is important to keep your home looking great. Our ability to drywall feature works also it's able to improve and reinvent our house.
+              We have years combined experience within the suspended ceiling, dry lining and interior fit-out industry.
         actions:
         - label: See more
           url: /drywall-works
@@ -54,7 +54,7 @@ sections:
       - title: Flooring
         image: images/flooring.jpg
         content: |-
-            Our solution for installation and repair of most types of flooring, including hardwood, laminate, vinyl, linoleum, ceramic tile and more.
+            Our solution for installation most types of flooring, including hardwood, laminate, vinyl, porcelain floor, ceramic tile and more.
         actions:
         - label: Explore
           url: /contact/

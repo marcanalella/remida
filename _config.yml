@@ -1,6 +1,7 @@
 title: Remida Property Solutions
 baseurl: /
 permalink: "/:title/"
+favicon: images/favicon.ico
 collections:
   posts:
     permalink: "/posts/:title/"
