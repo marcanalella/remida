@@ -1,3 +1,4 @@
+{% assign section = include.section %}
 <style>
   * {
     box-sizing: border-box
@@ -50,7 +51,6 @@
   }
 </style>
 
-{% assign section = include.section %}
 <div class="slideshow-container">
   {% for image in section.images %}
   <div class="mySlides1">

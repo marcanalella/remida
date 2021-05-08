@@ -8,18 +8,13 @@
 
     {% assign second_is_not_empty = section.second | is_not_empty %}
     {% if second_is_not_empty %}
-
     <style>
       * {
         box-sizing: border-box
       }
 
-      body {
-        font-family: Verdana, sans-serif;
-        margin: 0
-      }
-
-      .mySlides {
+      .mySlides1,
+      .mySlides2 {
         display: none
       }
 
@@ -48,7 +43,7 @@
         font-size: 18px;
         transition: 0.6s ease;
         border-radius: 0 3px 3px 0;
-        user-select: none;
+        user-select: contain;
       }
 
       /* Position the "next button" to the right */
@@ -57,169 +52,64 @@
         border-radius: 3px 0 0 3px;
       }
 
-      /* On hover, add a black background color with a little bit see-through */
+      /* On hover, add a grey background color */
       .prev:hover,
       .next:hover {
-        background-color: rgba(0, 0, 0, 0.8);
-      }
-
-      /* Caption text */
-      .text {
-        color: #f2f2f2;
-        font-size: 15px;
-        padding: 8px 12px;
-        position: absolute;
-        bottom: 8px;
-        width: 100%;
-        text-align: center;
-      }
-
-      /* Number text (1/3 etc) */
-      .numbertext {
-        color: #f2f2f2;
-        font-size: 12px;
-        padding: 8px 12px;
-        position: absolute;
-        top: 0;
-      }
-
-      /* The dots/bullets/indicators */
-      .dot {
-        cursor: pointer;
-        height: 15px;
-        width: 15px;
-        margin: 0 2px;
-        background-color: #bbb;
-        border-radius: 50%;
-        display: inline-block;
-        transition: background-color 0.6s ease;
-      }
-
-      .active,
-      .dot:hover {
-        background-color: #717171;
-      }
-
-      /* Fading animation */
-      .fade {
-        -webkit-animation-name: fade;
-        -webkit-animation-duration: 1.5s;
-        animation-name: fade;
-        animation-duration: 1.5s;
-      }
-
-      @-webkit-keyframes fade {
-        from {
-          opacity: .4
-        }
-
-        to {
-          opacity: 1
-        }
-      }
-
-      @keyframes fade {
-        from {
-          opacity: .4
-        }
-
-        to {
-          opacity: 1
-        }
-      }
-
-      /* On smaller screens, decrease text size */
-      @media only screen and (max-width: 300px) {
-
-        .prev,
-        .next,
-        .text {
-          font-size: 11px
-        }
+        background-color: #f1f1f1;
+        color: black;
       }
     </style>
 
-    <body>
-
-      <div class="slideshow-container">
-
-        <div class="mySlides fade">
-          <!-- <div class="numbertext">1 / 3</div> -->
-          <a href="/internal-design/"><img src="images/slide1.png" style="width:100%"></a>
-          <!-- <div class="text">Caption Text</div> -->
-        </div>
-
-        <div class="mySlides fade">
-          <!-- <div class="numbertext">1 / 3</div> -->
-          <a><img src="images/slide2.png" style="width:100%"></a>
-          <!-- <div class="text">Caption Text</div> -->
-        </div>
-
-        <div class="mySlides fade">
-          <!-- <div class="numbertext">1 / 3</div> -->
-          <a><img src="images/slide3.png" style="width:100%"></a>
-          <!-- <div class="text">Caption Text</div> -->
-        </div>
-
+    <div class="slideshow-container">
+      <div class="mySlides1">
+        <img src="images/slide1.png" alt="{{ image.image_alt }}" style="width: 100%">
       </div>
-      <br>
+      <div class="mySlides1">
+        <img src="images/slide2.png" alt="{{ image.image_alt }}" style="width: 100%">
+      </div>
+      <div class="mySlides1">
+        <img src="images/slide3.png" alt="{{ image.image_alt }}" style="width: 100%">
+      </div>
+      <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+    </div>
 
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    <script>
+      var slideIndex = [1, 1];
+      var slideId = ["mySlides1", "mySlides2"]
+      showSlides(1, 0);
+      showSlides(1, 1);
 
-  </div>
-  <br>
-
-  <div style="text-align:center">
-    <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
-    <span class="dot" onclick="currentSlide(3)"></span>
-  </div>
-
-  <script>
-    var slideIndex = 1;
-    showSlides(slideIndex);
-
-    function plusSlides(n) {
-      showSlides(slideIndex += n);
-    }
-
-    function currentSlide(n) {
-      showSlides(slideIndex = n);
-    }
-
-    function showSlides(n) {
-      var i;
-      var slides = document.getElementsByClassName("mySlides");
-      var dots = document.getElementsByClassName("dot");
-      if (n > slides.length) { slideIndex = 1 }
-      if (n < 1) { slideIndex = slides.length }
-      for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
+      function plusSlides(n, no) {
+        showSlides(slideIndex[no] += n, no);
       }
-      for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
+
+      function showSlides(n, no) {
+        var i;
+        var x = document.getElementsByClassName(slideId[no]);
+        if (n > x.length) { slideIndex[no] = 1 }
+        if (n < 1) { slideIndex[no] = x.length }
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        x[slideIndex[no] - 1].style.display = "block";
       }
-      slides[slideIndex - 1].style.display = "block";
-      dots[slideIndex - 1].className += " active";
-      setTimeout(showSlides, 5000);
-    }
-  </script>
-  {% endif %}
+    </script>
+    {% endif %}
 
 
-  {% assign content_is_not_empty = section.content | is_not_empty %}
-  {% if content_is_not_empty %}
-  <div class="hero__body text-block">
-    {{ section.content | markdownify }}
-  </div>
-  {% endif %}
-  {% assign actions_is_not_empty = section.actions | is_not_empty %}
-  {% if actions_is_not_empty %}
-  <div class="hero__actions button-group">
+    {% assign content_is_not_empty = section.content | is_not_empty %}
+    {% if content_is_not_empty %}
+    <div class="hero__body text-block">
+      {{ section.content | markdownify }}
+    </div>
+    {% endif %}
+    {% assign actions_is_not_empty = section.actions | is_not_empty %}
+    {% if actions_is_not_empty %}
+    <div class="hero__actions button-group">
 
-    {% include cta_buttons.html actions=section.actions %}
-  </div>
-  {% endif %}
+      {% include cta_buttons.html actions=section.actions %}
+    </div>
+    {% endif %}
   </div>
 </section>

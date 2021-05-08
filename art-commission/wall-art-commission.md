@@ -2,7 +2,7 @@
 title: Wall Art Commission
 # subtitle: Painting 1
 date: '2021-02-06'
-thumb_image: images/painting/project1/photo2.jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/painting/wall-art-commission/photo2.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections: 
   #- type: text_section
@@ -16,13 +16,13 @@ sections:
   #    in lacinia.
   - type: image_section
     images: 
-      - path: images/painting/project1/photo1.jpg
+      - path: images/painting/wall-art-commission/photo1.jpg
         image_alt: Subtle 1
         caption: This is the caption of the image
-      - path: images/painting/project1/photo2.jpg
+      - path: images/painting/wall-art-commission/photo2.jpg
         image_alt: Subtle 2
         width: wide
-      - path: images/painting/project1/photo3.jpg
+      - path: images/painting/wall-art-commission/photo3.jpg
         image_alt: Subtle 3
         width: wide
 seo:

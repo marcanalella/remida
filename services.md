@@ -36,7 +36,7 @@ sections:
           url: /art-commission
           style: button
       - title: Bespoke Internal Design
-        image: images/internal-design/project1/photo2.jpg
+        image: images/internal-design/bespoke-bedroom-design/photo2.jpg
         content: |-
             We work closely with designers in order to offer a solution to any design need that are tailored to you.
         actions:
@@ -60,7 +60,7 @@ sections:
           url: /contact/
           style: button
       #- title: Bespoke Internal Design
-      #  image: images/internal-design/project1/photo2.jpg
+      #  image: images/internal-design/bespoke-bedroom-design/photo2.jpg
       #  content: |-
       #      Description
       #  actions:

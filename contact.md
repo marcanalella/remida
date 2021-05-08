@@ -13,15 +13,15 @@ sections:
 
       ***
 
-
       ## Where we are
 
       Weybridge, Surrey, Kt15 2ss<br>
 
+      ## Phone
+
       [+44 7402052652]()<br>
 
-
-      ### Our social contact
+      ## Our social contact
     form_id: contactForm
 #[Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337) to put 
     form_action: /thank-you
