@@ -23,7 +23,19 @@ layout: body
   </div>
 </article>
 
-{% assign projects_sorted = '/gallery' | get_pages | sort: 'date' | reverse %}
+<!-- 'see more' for every section of gallery-->
+{% if page.url contains '/display' %}
+{% assign projects_sorted = '/display' | get_pages | sort: 'date' | reverse %}
+{% elsif page.url contains '/internal-design' %}
+{% assign projects_sorted = '/internal-design' | get_pages | sort: 'date' | reverse %}
+{% elsif page.url contains '/drywall-works' %}
+{% assign projects_sorted = '/drywall-works' | get_pages | sort: 'date' | reverse %}
+{% elsif page.url contains '/art-commission' %}
+{% assign projects_sorted = '/art-commission' | get_pages | sort: 'date' | reverse %}
+{% elsif page.url contains '/painting' %}
+{% assign projects_sorted = '/painting' | get_pages | sort: 'date' | reverse %}
+{% endif %}
+
 {% for project_item in projects_sorted %}
 {% if project_item.url == page.url %}
 {% assign curr_index = forloop.index0 %}
