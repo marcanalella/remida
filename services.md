@@ -4,16 +4,16 @@ hide_title:
 sections:
   - type: content_section
     content: >-
-        Remida is all about providing you with just the help you need to create your individual home more easily. With our help you stay completely in control of the look, timings and budget.
+          Remida is all about providing you with just the help you need to create your perfect home more easily. With our help you stay completely in control of the look, timings and budget.
 
 
-        We provide a professional service for our clients, executed with great attention to detail and creative flair.
+          We provide a professional service for our clients, executed with great attention to detail and creative flair.
 
 
-        We have a reliable team that can be called upon for larger schemes or tight deadlines.
+          We have a reliable team that can be called upon for larger schemes or tight deadlines.
 
 
-        We work close with luxury interior designers around London which are relaying to our professional service in order to recreate in real their projects.
+          We work close with luxury interior designers around London which rely on our professional services to bring their projects to fruition.
   - type: grid_section
     section_id: services
     title: What we do

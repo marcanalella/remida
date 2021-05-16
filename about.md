@@ -4,16 +4,16 @@ hide_title: false
 sections:
   - type: content_section
     content: >-
-        Hi, I'm Paolo Favata. I have worked in the world of interiors for many years and understand the problem that people face of wanting to create a lovely home whilst lacking the time, confidence or contacts to achieve it as easily as they would like. And so I founded Remida Properties Solutions, to help you to build what you need.
+        Hi, I’m Paolo Favata. I have worked in the world of interiors for many years and understand the problems that people face:  wanting to create a lovely home whilst lacking the time, expertise or contacts to achieve it as easily as they would like. And so I founded Remida Properties Solutions, to help you to build what you want.
 
 
         Based on the principle that you will be happier when your home suits you and the way that you choose to live, we put you at the centre of the process in everything we do.
 
 
-        At Remida we take on all aspects of residential and commercial painting, decorating and feature design walls and ceiling from plasterboard to suit your plans for both interior and exterior jobs to improve and give a character to your property.
+        At Remida we take on all aspects of interior and exterior residential and commercial painting, decorating (including feature design walls) and ceiling work to suit your plans to improve and enhance your property.
+        
 
-
-        We have experience and expertise in renovations, alterations and refurbishment. We love working with design plans, transforming the project into your dream house. 
+        We have experience and expertise in renovations, alterations and refurbishment. We love working with clients to design a project and bringing it to completion, resulting in their dream house.
   - type: grid_section
     section_id: founder
     title: The Founder
@@ -49,7 +49,7 @@ sections:
     title: The Team
   #  subtitle: An optional subtitle of the section
     content: >- 
-          We work close with luxury interior designers around London which are relaying to our professional service in order to recreate in real their projects. In this way we have the opportunity to support you in creating a lovely environment that can make such a difference to the quality of your life.
+          We work closely with luxury interior designers around London who rely on our professional services in order to create their projects. In this way we have the opportunity to support you in creating a lovely environment that can make such a difference to the quality of your life.
   - type: cta_section
     section_id: cta
     title: Let’s Connect

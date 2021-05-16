@@ -12,14 +12,14 @@ sections:
     title: >-
       Reinvent and improve your property with us
     content: >-
-      We offer uniquely personalised for your interior & exterior properties for each of our clients, creating a functional and attractive environment that is beneficial to your quality of life, taking care all of your property needs that are distinguished by their warmth, originality and careful attention to detail. Founded on the simple belief that good design brings quality to life, the company’s customers include private homes, retail spaces and work environments.
+      We offer uniquely personalised interior & exterior property services for each of our clients, creating a functional and attractive environment, taking care of all of your property needs. We distinguish ourselves by our warmth, originality and careful attention to detail. Founded on the simple belief that good design brings quality to life, the company’s customers include private homes, retail spaces and work environments.
 
 
       We have a network of skilled suppliers including fine artisan artists, such as muralists and custom furniture makers, to create timeless designs, customised art works and furnishings for our clients.
-      
 
-      We take time to understand the needs of our clients to ensure that we deliver the best, following designer's instruction with the best quality according to customer's instructions. Our reputation has been built on our exceptional level of service
-      
+
+      We take time to understand the needs of our clients to ensure that we deliver what they want; carefully following designer and client instructions. Our reputation has been built on our exceptional level of service.
+
       
       [Let's connect](/contact/).
   - type: grid_section
@@ -31,7 +31,7 @@ sections:
       - title: Property Service
         image: images/icons8-home-page-100.png
         content: |-
-            We offers services like painting, decorating, drywall installation, flooring and furniture assembly & fitting 
+            We offer services such as painting, decorating, drywall installation, flooring and furniture assembly & fitting. 
       #- title: Design Service
       #  image: images/icons8-design-80.png
       #  content: |-
@@ -39,7 +39,7 @@ sections:
       - title: Restructuring Service
         image: images/icons8-hammer-80.png
         content: |-
-          Old house, new house: With our service your home can rejuvenate and do not look at the past years.
+          Old house, new house: With our service your home can be rejuvenated and given new life.
   - type: grid_section
     section_id: services
     title: Why choose us?
@@ -48,7 +48,7 @@ sections:
       - title: Professional Team
         image: images/icons8-group-task-80.png
         content: |-
-            We are a team coming from different backgrounds and bringing on the table different high-level skills
+            We are a multi-disciplinary team bringing you a diverse range of high-level skills.
       - title: Listen to the Clients
         image: images/icons8-listen-80.png
         content: |-
@@ -56,7 +56,7 @@ sections:
       - title: Creative Solutions
         image: images/icons8-light-80.png
         content: |-
-            Every project has got its challenges and our skills will help you to find the best creative bespoke solution
+            Every project has its challenges and our skills will help you find the best creative bespoke solutions
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

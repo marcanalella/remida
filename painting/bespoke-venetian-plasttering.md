@@ -1,8 +1,8 @@
 ---
-title: Wall Effects
+title: Bespoke Venetian Plasttering
 # subtitle: Painting 1
 date: '2021-02-06'
-thumb_image: images/wall-effects/photo (1).jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/painting/decorative-paint/Bspoke Venetian Plasttering.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections: 
   #- type: text_section
@@ -11,16 +11,13 @@ sections:
 
       
   #    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-  #    accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
+  #   accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
   #    Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
   #    in lacinia.
   - type: image_section
     images: 
-      - path: images/wall-effects/photo (1).jpg
+      - path: images/painting/decorative-paint/Bspoke Venetian Plasttering.jpg
         image_alt: Subtle 1
-        caption: This is the caption of the image
-      - path: images/wall-effects/photo (2).jpg
-        image_alt: Subtle 2
         caption: This is the caption of the image
 seo:
   title: Subtle

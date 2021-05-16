@@ -46,6 +46,12 @@ sections:
       - path: images/painting/decorative-paint/photo (10).jpg
         image_alt: Subtle 1
         caption: This is the caption of the image
+      - path: images/wall-effects/photo (1).jpg
+        image_alt: Subtle 1
+        caption: This is the caption of the image
+      - path: images/wall-effects/photo (2).jpg
+        image_alt: Subtle 2
+        caption: This is the caption of the image
 seo:
   title: Subtle
   description: This is the sample project description
