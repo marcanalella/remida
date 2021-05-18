@@ -29,7 +29,7 @@ sections:
     col_number: three
     grid_items:
       - title: Property Service
-        image: images/icons8-home-page-100.png
+        image: images/icons8-cottage-80.png
         content: |-
             We offer services such as painting, decorating, drywall installation, flooring and furniture assembly & fitting. 
       #- title: Design Service

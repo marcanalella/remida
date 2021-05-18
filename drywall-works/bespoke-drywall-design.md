@@ -16,16 +16,16 @@ sections:
   #    in lacinia.
   - type: image_section
     images:
-      - path: images/bespoke-drywall-design/photo (1).jpg
+      - path: images/bespoke-drywall-design/photo (1).jpeg
         image_alt: Design Is One 1
         caption: This is the caption of the image
-      - path: images/bespoke-drywall-design/photo (2).jpg
+      - path: images/bespoke-drywall-design/photo (2).jpeg
         image_alt: Design Is One 2
         caption: This is the caption of the image
-      - path: images/bespoke-drywall-design/photo (3).jpg
+      - path: images/bespoke-drywall-design/photo (3).jpeg
         image_alt: Design Is One 3
         caption: This is the caption of the image
-      - path: images/bespoke-drywall-design/photo (4).jpg
+      - path: images/bespoke-drywall-design/photo (4).jpeg
         image_alt: Design Is One 3
         caption: This is the caption of the image
       - path: images/bespoke-drywall-design/photo (5).jpg
@@ -34,14 +34,8 @@ sections:
       - path: images/bespoke-drywall-design/photo (6).jpg
         image_alt: Design Is One 2
         caption: This is the caption of the image
-      - path: images/bespoke-drywall-design/photo (7).jpg
-        image_alt: Design Is One 3
-        caption: This is the caption of the image
       - path: images/bespoke-drywall-design/photo (8).jpg
         image_alt: Design Is One 3
-        caption: This is the caption of the image
-      - path: images/bespoke-drywall-design/photo (9).jpg
-        image_alt: Design Is One 1
         caption: This is the caption of the image
       - path: images/bespoke-drywall-design/photo (10).jpg
         image_alt: Design Is One 2

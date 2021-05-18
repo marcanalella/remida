@@ -40,9 +40,6 @@ sections:
       - path: images/internal-design/bespoke-drywall-commission/photo (8).jpg
         image_alt: Design Is One 3
         caption: This is the caption of the image
-      - path: images/internal-design/bespoke-drywall-commission/photo (9).jpg
-        image_alt: Design Is One 1
-        caption: This is the caption of the image
       - path: images/internal-design/bespoke-drywall-commission/photo (10).jpg
         image_alt: Design Is One 2
         caption: This is the caption of the image
