@@ -34,5 +34,13 @@ sections:
     view_all_label: View All
     view_all_url: painting
     project_sorted: '/painting'
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title: Plastering
+    projects_number: 2
+    view_all_label: View All
+    view_all_url: plastering
+    project_sorted: '/plastering'
 layout: advanced
 ---

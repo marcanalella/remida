@@ -1,5 +1,5 @@
 ---
-title: Bespoke Venetian Plasttering
+title: Bespoke Venetian Plastering
 # subtitle: Painting 1
 date: '2021-02-06'
 thumb_image: images/painting/decorative-paint/Bspoke Venetian Plasttering.jpg #images/work-poster-1-thumb.jpg

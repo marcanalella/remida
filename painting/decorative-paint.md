@@ -2,18 +2,15 @@
 title: Decorative Wall Paint
 # subtitle: Painting 1
 date: '2021-02-06'
-thumb_image: images/painting/decorative-paint/photo (7).jpg #images/work-poster-1-thumb.jpg
+thumb_image: images/painting/decorative-paint/photo.jpg #images/work-poster-1-thumb.jpg
 thumb_image_alt: Subtle preview
 sections: 
-  #- type: text_section
-  #  content: >-
-      # Description:
+  - type: text_section
+    content: >-
+      ![alt text](../../images/painting/decorative-paint/photo.jpg)
 
       
-  #    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-  #   accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-  #    Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-  #    in lacinia.
+      We create paint effects including glazes, colour washing, rag rolling, stippling and stencilling to add depth and texture to walls in your home.
   - type: image_section
     images: 
       - path: images/painting/decorative-paint/photo (1).jpg
