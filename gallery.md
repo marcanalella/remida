@@ -37,7 +37,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Plastering
+    title: Venetian Plastering
     projects_number: 2
     view_all_label: View All
     view_all_url: plastering

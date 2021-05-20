@@ -1,6 +1,6 @@
 ---
-title: Bespoke Plastering
-subtitle: Take a look at our Bespoke Plastering
+title: Venetian Plastering
+subtitle: Take a look at our Venetian Plastering
 layout_style: mosaic
 projects_sorted: '/plastering'
 seo:

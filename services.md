@@ -36,7 +36,7 @@ sections:
           url: /art-commission
           style: button
       - title: Bespoke Internal Design
-        image: images/internal-design/bespoke-bedroom-design/photo2.jpg
+        image: images/design.png
         content: |-
             We work closely with designers in order to offer a solution to any design need that are tailored to you.
         actions:
@@ -50,6 +50,14 @@ sections:
         actions:
         - label: Explore
           url: /painting
+          style: button
+      - title: Venetian Plastering
+        image: images/plastering.jpg
+        content: |-
+            Our venetian plastering services will give your wall a luminous shine.
+        actions:
+        - label: Explore
+          url: /plastering
           style: button
       - title: Flooring
         image: images/flooring.jpg
