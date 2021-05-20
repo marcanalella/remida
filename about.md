@@ -14,15 +14,15 @@ sections:
         
 
         We have experience and expertise in renovations, alterations and refurbishment. We love working with clients to design a project and bringing it to completion, resulting in their dream house.
-  - type: grid_section
-    section_id: founder
-    title: The Founder
+ # - type: grid_section
+ #   section_id: founder
+ #   title: The Founder
   #  subtitle: An optional subtitle of the section
-    col_number: three
-    grid_items:
-      - title: Paolo Favata
-        image: images/team-1.png
-        subtitle: Founder
+ #   col_number: three
+ #   grid_items:
+ #     - title: Paolo Favata
+ #       image: images/team-1.png
+ #       subtitle: Founder
   #      content: >-
   #        Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
   #        euismod nisi porta lorem mollis.
