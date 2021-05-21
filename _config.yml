@@ -1,0 +1,78 @@
+title: Remida Property Solutions
+baseurl: /
+permalink: "/:title/"
+favicon: images/favicon.ico
+collections:
+  posts:
+    permalink: "/posts/:title/"
+color_scheme: light
+accent_color: yellow
+base_font: fraunces
+header:
+  title: remida
+  logo: images/logo-removebg-preview.png
+  logo_alt: Remida logo
+  has_nav: true
+  nav_links:
+    - label: Home
+      url: /
+      style: link
+    - label: About
+      url: /about/
+      style: link
+    - label: Services
+      url: /services/
+      style: link
+    - label: Gallery
+      url: /gallery/
+      style: link
+    #- label: News
+    #  url: /blog/
+    #  style: link
+    - label: Contact
+      url: /contact/
+      style: button
+footer:
+  content: >-
+    &copy; 2021 Remida Property Solution | <a href="/privacy-policy">Privacy Policy</a> | Powered by <a
+    href="https://mariocanalella.pw" target="_blank"
+    rel="noopener">canalella.com</a>
+  has_social: true
+  social_links:
+    #  - label: Twitter
+    #    url: "https://twitter.com/"
+    #    style: icon
+    #    icon: twitter
+    #    new_window: true
+    - label: Instagram
+      url: "https://instagram.com/remida_house?igshid=tkz9kczw08jq"
+      style: icon
+      icon: instagram
+      new_window: true
+  #  - label: Dribbble
+  #    url: "https://dribbble.com/"
+  #    style: icon
+  #    icon: dribbble
+  #    new_window: true
+  #  - label: LinkedIn
+  #    url: "https://www.linkedin.com/"
+  #    style: icon
+  #    icon: linkedin
+  #    new_window: true
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - README.md
+  - netlify.toml
