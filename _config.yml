@@ -34,7 +34,7 @@ header:
       style: button
 footer:
   content: >-
-    &copy; 2021 Remida Property Solution. All rights reserved. Powered by <a
+    &copy; 2021 Remida Property Solution | <a href="/privacy-policy">Privacy Policy</a> | Powered by <a
     href="https://mariocanalella.pw" target="_blank"
     rel="noopener">canalella.com</a>
   has_social: true
