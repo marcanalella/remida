@@ -95,5 +95,31 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
+seo:
+  title: Home - Remida Property Solutions
+  description: We offer uniquely personalised interior & exterior property services for each of our clients, creating a functional and attractive environment, taking care of all of your property needs.
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Home - Remida Property Solutions
+      keyName: property
+    - name: 'og:description'
+      value: We offer uniquely personalised interior & exterior property services for each of our clients, creating a functional and attractive environment, taking care of all of your property needs.
+      keyName: property
+    - name: 'og:image'
+      value: images/about.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Home - Remida Property Solutions
+    - name: 'twitter:description'
+      value: We offer uniquely personalised interior & exterior property services for each of our clients, creating a functional and attractive environment, taking care of all of your property needs.
+    - name: 'twitter:image'
+      value: images/about.jpg
+      relativeUrl: true
 layout: advanced
 ---

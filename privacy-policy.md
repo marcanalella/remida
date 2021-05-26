@@ -185,23 +185,23 @@ sections:
         <li>By email: paoleno21@gmail.com</li>
         </ul>
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Privacy Policy - Remida Property Solutions
+  description: Privacy policy page of Remida Property Solutions
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Privacy Policy - Remida Property Solutions
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Privacy policy page of Remida Property Solutions
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Privacy Policy - Remida Property Solutions
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Privacy policy page of Remida Property Solutions
 layout: advanced
 ---

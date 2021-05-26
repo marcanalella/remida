@@ -89,17 +89,17 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: About Us
-  description: This is the about us page
+  title: Services - Remida Property Solutions
+  description: Check what we can do for you at Remida Property Solutions
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Services - Remida Property Solutions
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Check what we can do for you at Remida Property Solutions
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -108,9 +108,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Services - Remida Property Solutions
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Check what we can do for you at Remida Property Solutions
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true

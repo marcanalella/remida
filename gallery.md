@@ -42,5 +42,24 @@ sections:
     view_all_label: View All
     view_all_url: plastering
     project_sorted: '/plastering'
+seo:
+  title: Gallery - Remida Property Solutions
+  description: Take a look on what we can do for you at Remida Property Solutions
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Gallery - Remida Property Solutions
+      keyName: property
+    - name: 'og:description'
+      value: Take a look on what we can do for you at Remida Property Solutions
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: Gallery - Remida Property Solutions
+    - name: 'twitter:description'
+      value: Take a look on what we can do for you at Remida Property Solutions
 layout: advanced
 ---

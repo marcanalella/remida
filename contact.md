@@ -57,7 +57,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact
-  description: This is the contact page
+  description: Let's Connect with Remida Property Solutions
   extra:
     - name: 'og:type'
       value: website
@@ -66,13 +66,13 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Let's Connect with Remida Property Solutions
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Let's Connect with Remida Property Solutions
 layout: advanced
 ---
