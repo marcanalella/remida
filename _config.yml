@@ -36,8 +36,8 @@ header:
 footer:
   content: >-
     &copy; 2021 Remida Property Solution | <a href="/privacy-policy">Privacy Policy</a> | Powered by <a
-    href="https://mariocanalella.pw" target="_blank"
-    rel="noopener">canalella.com</a>
+    href="https://mariocanalella.com" target="_blank"
+    rel="noopener">Mario Canalella</a>
   has_social: true
   social_links:
     #  - label: Twitter
