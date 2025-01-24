@@ -35,31 +35,16 @@ header:
       style: button
 footer:
   content: >-
-    &copy; 2023 Remida Property Solution | <a href="/privacy-policy">Privacy Policy</a> | Powered by <a
-    href="https://ecomitsolutions.com" target="_blank"
-    rel="noopener">ECOM IT Solutions</a>
+    &copy; 2025 Remida Property Solution | <a href="/privacy-policy">Privacy Policy</a> | Powered by <a
+    href="https://mariocanalella.netlify.app/" target="_blank"
+    rel="noopener">Mario Canalella</a>
   has_social: true
   social_links:
-    #  - label: Twitter
-    #    url: "https://twitter.com/"
-    #    style: icon
-    #    icon: twitter
-    #    new_window: true
     - label: Instagram
       url: "https://instagram.com/remida_house?igshid=tkz9kczw08jq"
       style: icon
       icon: instagram
       new_window: true
-  #  - label: Dribbble
-  #    url: "https://dribbble.com/"
-  #    style: icon
-  #    icon: dribbble
-  #    new_window: true
-  #  - label: LinkedIn
-  #    url: "https://www.linkedin.com/"
-  #    style: icon
-  #    icon: linkedin
-  #    new_window: true
 sass:
   indentWidth: 4
   style: nested
